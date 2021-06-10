@@ -65,7 +65,11 @@ p{
 }
 .links:hover{
     color: crimson;
+    font-size: 30px;
         }
 h1{
     font-family: 'Raleway', sans-serif;
+}
+html{
+    scroll-behavior: smooth;
 }
